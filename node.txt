@@ -1,205 +1,5 @@
 proxies:
-  - name: KR NodeTest 1 | 538.95 KB
-    server: 61.14.210.237
-    port: 33148
-    type: ss
-    cipher: aes-256-gcm
-    password: CMduaFXddcQbwNAAs7xFDnc8
-    udp: true
-    speedtest: 551882
-  - name: NodeTest 2 | 447.16 KB
-    server: ntemp09.boom.party
-    port: 18000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 457893
-  - name: NodeTest 3 | 447.16 KB
-    server: ssr4.ssrsub.com
-    port: 8333
-    type: ssr
-    cipher: rc4-md5
-    password: passfw2xs4e!
-    protocol: origin
-    obfs: plain
-    protocol-param: t.me/SSRSUB
-    obfs-param: ''
-    udp: true
-    speedtest: 457893
-  - name: NodeTest 4 | 445.22 KB
-    server: nf2.boom.party
-    port: 12000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 455902
-  - name: NodeTest 5 | 437.61 KB
-    server: nk1.boom.party
-    port: 11000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 448109
-  - name: NodeTest 6 | 437.61 KB
-    server: opt18.boom.party
-    port: 28000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 448109
-  - name: NodeTest 7 | 437.61 KB
-    server: n61.boom.party
-    port: 24000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 448109
-  - name: NodeTest 8 | 437.61 KB
-    server: nn8.boom.party
-    port: 47000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 448109
-  - name: NodeTest 9 | 435.74 KB
-    server: nf10.boom.party
-    port: 20000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 446202
-  - name: NodeTest 10 | 433.9 KB
-    server: nn12.boom.party
-    port: 51000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 444311
-  - name: NodeTest 11 | 433.9 KB
-    server: njc.boom.party
-    port: 22000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 444311
-  - name: NodeTest 12 | 430.25 KB
-    server: ntemp07.boom.party
-    port: 16000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 440578
-  - name: NodeTest 13 | 430.25 KB
-    server: nn9.boom.party
-    port: 48000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 440578
-  - name: NodeTest 14 | 428.45 KB
-    server: ntemp19.boom.party
-    port: 24000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 438734
-  - name: NodeTest 15 | 428.45 KB
-    server: ntemp20.boom.party
-    port: 25000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 438734
-  - name: NodeTest 16 | 428.45 KB
-    server: nf5.boom.party
-    port: 15000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 438734
-  - name: NodeTest 17 | 426.67 KB
-    server: opt26.boom.party
-    port: 36000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 436906
-  - name: NodeTest 18 | 426.67 KB
+  - name: NodeTest 1 | 471.89 KB
     server: n92.boom.party
     port: 16000
     type: ssr
@@ -210,10 +10,10 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 436906
-  - name: NodeTest 19 | 421.4 KB
-    server: nje.boom.party
-    port: 24000
+    speedtest: 483214
+  - name: NodeTest 2 | 447.16 KB
+    server: nm7.boom.party
+    port: 17000
     type: ssr
     cipher: aes-256-cfb
     password: Uk92CS
@@ -222,44 +22,8 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 431512
-  - name: NodeTest 20 | 417.96 KB
-    server: opt12.boom.party
-    port: 22000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 427990
-  - name: NodeTest 21 | 417.96 KB
-    server: njd.boom.party
-    port: 23000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 427990
-  - name: NodeTest 22 | 417.96 KB
-    server: n62.boom.party
-    port: 20000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 427990
-  - name: NodeTest 23 | 417.96 KB
+    speedtest: 457893
+  - name: NodeTest 3 | 437.61 KB
     server: nj6.boom.party
     port: 16000
     type: ssr
@@ -270,52 +34,8 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 427990
-  - name: NodeTest 24 | 417.96 KB
-    server: n116.boom.party
-    port: 33200
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 427990
-  - name: NodeTest 25 | 416.26 KB
-    server: nk6.boom.party
-    port: 16000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 426250
-  - name: NodeTest 26 | 409.6 KB
-    server: nf8.boom.party
-    port: 18000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 419430
-  - name: CN NodeTest 27 | 407.97 KB
-    server: 117.28.243.169
-    port: 8333
-    type: ss
-    cipher: rc4-md5
-    password: passfw2xs4e!
-    udp: true
-    speedtest: 417759
-  - name: NodeTest 28 | 407.97 KB
+    speedtest: 448109
+  - name: NodeTest 4 | 435.74 KB
     server: nn7.boom.party
     port: 46000
     type: ssr
@@ -326,309 +46,9 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 417759
-  - name: NodeTest 29 | 407.97 KB
-    server: n77.boom.party
-    port: 23000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 417759
-  - name: NodeTest 30 | 407.97 KB
-    server: n63.boom.party
-    port: 14000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 417759
-  - name: NodeTest 31 | 406.35 KB
-    server: ntemp18.boom.party
-    port: 23000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 416101
-  - name: NodeTest 32 | 404.74 KB
-    server: n22.boom.party
-    port: 32200
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 414456
-  - name: NodeTest 33 | 398.44 KB
-    server: opt19.boom.party
-    port: 29000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 408006
-  - name: NodeTest 34 | 396.9 KB
-    server: nj8.boom.party
-    port: 18000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 406424
-  - name: NodeTest 35 | 393.85 KB
-    server: opt3.boom.party
-    port: 13000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 403298
-  - name: NodeTest 36 | 390.84 KB
-    server: ntemp10.boom.party
-    port: 20000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 400219
-  - name: NodeTest 37 | 390.84 KB
-    server: nf9.boom.party
-    port: 19000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 400219
-  - name: NodeTest 38 | 389.35 KB
-    server: opt7.boom.party
-    port: 17000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 398698
-  - name: NodeTest 39 | 389.35 KB
-    server: n37.boom.party
-    port: 33300
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 398698
-  - name: NodeTest 40 | 386.42 KB
-    server: opt9.boom.party
-    port: 19000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 395689
-  - name: NodeTest 41 | 386.42 KB
-    server: opt4.boom.party
-    port: 14000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 395689
-  - name: NodeTest 42 | 384.96 KB
-    server: ntemp06.boom.party
-    port: 15000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 394201
-  - name: NodeTest 43 | 383.52 KB
-    server: opt1.boom.party
-    port: 11000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 392725
-  - name: NodeTest 44 | 380.67 KB
-    server: nn11.boom.party
-    port: 50000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 389805
-  - name: NodeTest 45 | 377.86 KB
-    server: nj2.boom.party
-    port: 12000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 386928
-  - name: NodeTest 46 | 373.72 KB
-    server: ntemp16.boom.party
-    port: 21000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 382691
-  - name: NodeTest 47 | 373.72 KB
-    server: n30.boom.party
-    port: 19000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 382691
-  - name: NodeTest 48 | 371.01 KB
-    server: nj3.boom.party
-    port: 13000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 379918
-  - name: NodeTest 49 | 369.67 KB
-    server: n67.boom.party
-    port: 25000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 378547
-  - name: NodeTest 50 | 369.67 KB
-    server: ntemp04.boom.party
-    port: 13000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 378547
-  - name: NodeTest 51 | 369.67 KB
-    server: nl5.boom.party
-    port: 26000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 378547
-  - name: NodeTest 52 | 365.71 KB
-    server: opt5.boom.party
-    port: 15000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 374491
-  - name: NodeTest 53 | 363.12 KB
-    server: opt17.boom.party
-    port: 27000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 371835
-  - name: NodeTest 54 | 360.56 KB
-    server: nl7.boom.party
+    speedtest: 446202
+  - name: NodeTest 5 | 432.07 KB
+    server: opt18.boom.party
     port: 28000
     type: ssr
     cipher: aes-256-cfb
@@ -638,80 +58,8 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 369216
-  - name: NodeTest 55 | 359.3 KB
-    server: nn5.boom.party
-    port: 44000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 367921
-  - name: NodeTest 56 | 353.1 KB
-    server: ntemp05.boom.party
-    port: 14000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 361577
-  - name: NodeTest 57 | 353.1 KB
-    server: nla.boom.party
-    port: 31000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 361577
-  - name: NodeTest 58 | 350.68 KB
-    server: nl3.boom.party
-    port: 24000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 359101
-  - name: NodeTest 59 | 344.78 KB
-    server: opt6.boom.party
-    port: 16000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 353055
-  - name: NodeTest 60 | 344.78 KB
-    server: nk4.boom.party
-    port: 14000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 353055
-  - name: NodeTest 61 | 344.78 KB
+    speedtest: 442437
+  - name: NodeTest 6 | 430.25 KB
     server: n60.boom.party
     port: 24000
     type: ssr
@@ -722,105 +70,9 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 353055
-  - name: NodeTest 62 | 343.62 KB
-    server: nl2.boom.party
-    port: 23000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 351871
-  - name: NodeTest 63 | 342.47 KB
-    server: opt22.boom.party
-    port: 32000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 350694
-  - name: NodeTest 64 | 341.33 KB
-    server: nj5.boom.party
-    port: 15000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 349525
-  - name: NodeTest 65 | 339.07 KB
-    server: nna.boom.party
-    port: 49000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 347210
-  - name: NodeTest 66 | 336.84 KB
-    server: nj4.boom.party
-    port: 14000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 344926
-  - name: CN NodeTest 67 | 333.55 KB
-    server: 117.28.243.132
-    port: 8333
-    type: ssr
-    cipher: rc4-md5
-    password: passfw2xs4e!
-    protocol: origin
-    obfs: plain
-    protocol-param: ''
-    obfs-param: ''
-    udp: true
-    speedtest: 341555
-  - name: NodeTest 68 | 332.47 KB
-    server: n09.boom.party
-    port: 12000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 340446
-  - name: NodeTest 69 | 329.26 KB
-    server: nk7.boom.party
-    port: 17000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 337162
-  - name: NodeTest 70 | 324.05 KB
-    server: nf6.boom.party
+    speedtest: 440578
+  - name: NodeTest 7 | 428.45 KB
+    server: ntemp07.boom.party
     port: 16000
     type: ssr
     cipher: aes-256-cfb
@@ -830,18 +82,10 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 331827
-  - name: KR NodeTest 71 | 315.08 KB
-    server: 61.14.210.242
-    port: 34815
-    type: ss
-    cipher: aes-256-gcm
-    password: LkFAzkzXkSCRYa2CsRdL8cGb
-    udp: true
-    speedtest: 322638
-  - name: NodeTest 72 | 315.08 KB
-    server: nl6.boom.party
-    port: 27000
+    speedtest: 438734
+  - name: NodeTest 8 | 424.9 KB
+    server: n116.boom.party
+    port: 33200
     type: ssr
     cipher: aes-256-cfb
     password: Uk92CS
@@ -850,10 +94,10 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 322638
-  - name: NodeTest 73 | 313.15 KB
-    server: nj9.boom.party
-    port: 19000
+    speedtest: 435093
+  - name: NodeTest 9 | 421.4 KB
+    server: nm4.boom.party
+    port: 14000
     type: ssr
     cipher: aes-256-cfb
     password: Uk92CS
@@ -862,105 +106,9 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 320665
-  - name: NodeTest 74 | 312.19 KB
-    server: nl8.boom.party
-    port: 29000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 319687
-  - name: NodeTest 75 | 306.59 KB
-    server: nf3.boom.party
-    port: 13000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 313944
-  - name: NodeTest 76 | 301.18 KB
-    server: nf7.boom.party
-    port: 17000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 308404
-  - name: NodeTest 77 | 295.95 KB
-    server: nf1.boom.party
-    port: 11000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 303056
-  - name: NodeTest 78 | 289.26 KB
-    server: n111.boom.party
-    port: 29000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 296207
-  - name: NodeTest 79 | 288.45 KB
-    server: opt25.boom.party
-    port: 35000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 295373
-  - name: NodeTest 80 | 288.45 KB
-    server: nl4.boom.party
-    port: 25000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 295373
-  - name: NodeTest 81 | 283.66 KB
-    server: p5.22332e.com
-    port: 8333
-    type: ssr
-    cipher: rc4-md5
-    password: passfw2xs4e!
-    protocol: origin
-    obfs: plain
-    protocol-param: ''
-    obfs-param: ''
-    udp: true
-    speedtest: 290464
-  - name: NodeTest 82 | 281.32 KB
-    server: opt21.boom.party
+    speedtest: 431512
+  - name: NodeTest 10 | 414.57 KB
+    server: n117.boom.party
     port: 31000
     type: ssr
     cipher: aes-256-cfb
@@ -970,10 +118,10 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 288070
-  - name: NodeTest 83 | 281.32 KB
-    server: opt14.boom.party
-    port: 24000
+    speedtest: 424524
+  - name: NodeTest 11 | 412.9 KB
+    server: ntemp20.boom.party
+    port: 25000
     type: ssr
     cipher: aes-256-cfb
     password: Uk92CS
@@ -982,18 +130,10 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 288070
-  - name: US NodeTest 84 | 278.26 KB
-    server: 65.49.193.120
-    port: 502
-    type: ss
-    cipher: aes-256-cfb
-    password: bwhskrskr01
-    udp: true
-    speedtest: 284939
-  - name: NodeTest 85 | 275.27 KB
-    server: opt13.boom.party
-    port: 23000
+    speedtest: 422812
+  - name: NodeTest 12 | 411.24 KB
+    server: nk5.boom.party
+    port: 15000
     type: ssr
     cipher: aes-256-cfb
     password: Uk92CS
@@ -1002,10 +142,10 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 281875
-  - name: NodeTest 86 | 274.53 KB
-    server: opt23.boom.party
-    port: 33000
+    speedtest: 421114
+  - name: NodeTest 13 | 409.6 KB
+    server: nm2.boom.party
+    port: 12000
     type: ssr
     cipher: aes-256-cfb
     password: Uk92CS
@@ -1014,10 +154,10 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 281119
-  - name: NodeTest 87 | 270.9 KB
-    server: opt16.boom.party
-    port: 26000
+    speedtest: 419430
+  - name: NodeTest 14 | 407.97 KB
+    server: opt20.boom.party
+    port: 30000
     type: ssr
     cipher: aes-256-cfb
     password: Uk92CS
@@ -1026,108 +166,8 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 277401
-  - name: US NodeTest 88 | 265.28 KB
-    server: 49.51.188.31
-    port: 32095
-    type: ss
-    cipher: aes-256-cfb
-    password: lanluojing320
-    udp: true
-    speedtest: 271651
-  - name: RO NodeTest 89 | 265.28 KB
-    server: 79.110.54.133
-    port: 49202
-    type: ss
-    cipher: aes-256-gcm
-    password: btzEYXKZxnR7g6H2vFTQK5TD
-    udp: true
-    speedtest: 271651
-  - name: NodeTest 90 | 263.24 KB
-    server: opt24.boom.party
-    port: 34000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 269556
-  - name: NodeTest 91 | 260.56 KB
-    server: nmd.boom.party
-    port: 23000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 266813
-  - name: US NodeTest 92 | 259.9 KB
-    server: 66.115.177.156
-    port: 45329
-    type: ss
-    cipher: aes-256-gcm
-    password: CXSjgD7u7Ar7GxkZ4CgTMUsj
-    udp: true
-    speedtest: 266136
-  - name: NodeTest 93 | 254.73 KB
-    server: nn4.boom.party
-    port: 43000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 260839
-  - name: MY NodeTest 94 | 254.09 KB
-    server: 118.107.244.112
-    port: 8091
-    type: ss
-    cipher: aes-256-gcm
-    password: PCnnH6SQSnfoS27
-    udp: true
-    speedtest: 260192
-  - name: NodeTest 95 | 253.46 KB
-    server: gz1.52168.xyz
-    port: 1111
-    type: ssr
-    cipher: aes-256-cfb
-    password: epChJS35fV
-    protocol: auth_aes128_sha1
-    obfs: tls1.2_ticket_auth
-    protocol-param: 17979:HUK23r
-    obfs-param: bf7ef17979.baidu.com
-    udp: true
-    speedtest: 259548
-  - name: RO NodeTest 96 | 250.37 KB
-    server: 79.110.54.117
-    port: 31572
-    type: ss
-    cipher: aes-256-gcm
-    password: n8w4StnbVD9dmXYn4Ajt87EA
-    udp: true
-    speedtest: 256375
-  - name: NodeTest 97 | 250.37 KB
-    server: nk3.boom.party
-    port: 13000
-    type: ssr
-    cipher: aes-256-cfb
-    password: Uk92CS
-    protocol: auth_aes128_sha1
-    obfs: http_simple
-    protocol-param: 44119:QwctEr
-    obfs-param: download.windowsupdate.com
-    udp: true
-    speedtest: 256375
-  - name: NodeTest 98 | 249.76 KB
+    speedtest: 417759
+  - name: NodeTest 15 | 407.97 KB
     server: nf11.boom.party
     port: 21000
     type: ssr
@@ -1138,20 +178,956 @@ proxies:
     protocol-param: 44119:QwctEr
     obfs-param: download.windowsupdate.com
     udp: true
-    speedtest: 255750
-  - name: US NodeTest 99 | 240.94 KB
-    server: 66.115.177.141
-    port: 37588
+    speedtest: 417759
+  - name: NodeTest 16 | 406.35 KB
+    server: opt12.boom.party
+    port: 22000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 416101
+  - name: NodeTest 17 | 396.9 KB
+    server: n61.boom.party
+    port: 24000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 406424
+  - name: NodeTest 18 | 396.9 KB
+    server: nm6.boom.party
+    port: 16000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 406424
+  - name: NodeTest 19 | 390.84 KB
+    server: nk7.boom.party
+    port: 17000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 400219
+  - name: NodeTest 20 | 389.35 KB
+    server: ntemp19.boom.party
+    port: 24000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 398698
+  - name: NodeTest 21 | 389.35 KB
+    server: nje.boom.party
+    port: 24000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 398698
+  - name: CN NodeTest 22 | 383.52 KB
+    server: 117.28.243.132
+    port: 8333
+    type: ssr
+    cipher: rc4-md5
+    password: passfw2xs4e!
+    protocol: origin
+    obfs: plain
+    protocol-param: ''
+    obfs-param: ''
+    udp: true
+    speedtest: 392725
+  - name: NodeTest 23 | 376.47 KB
+    server: nn5.boom.party
+    port: 44000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 385505
+  - name: NodeTest 24 | 375.09 KB
+    server: ntemp06.boom.party
+    port: 15000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 384093
+  - name: NodeTest 25 | 372.36 KB
+    server: opt4.boom.party
+    port: 14000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 381300
+  - name: NodeTest 26 | 360.56 KB
+    server: nl3.boom.party
+    port: 24000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 369216
+  - name: NodeTest 27 | 351.89 KB
+    server: opt26.boom.party
+    port: 36000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 360335
+  - name: NodeTest 28 | 343.62 KB
+    server: nk3.boom.party
+    port: 13000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 351871
+  - name: NodeTest 29 | 342.47 KB
+    server: n115.boom.party
+    port: 30000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 350694
+  - name: NodeTest 30 | 340.2 KB
+    server: opt25.boom.party
+    port: 35000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 348364
+  - name: NodeTest 31 | 337.95 KB
+    server: nn11.boom.party
+    port: 50000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 346064
+  - name: NodeTest 32 | 335.74 KB
+    server: nl4.boom.party
+    port: 25000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 343795
+  - name: NodeTest 33 | 332.47 KB
+    server: nl8.boom.party
+    port: 29000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 340446
+  - name: NodeTest 34 | 331.39 KB
+    server: opt16.boom.party
+    port: 26000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 339344
+  - name: NodeTest 35 | 327.16 KB
+    server: ssr3.ssrsub.com
+    port: 8333
+    type: ssr
+    cipher: rc4-md5
+    password: passfw2xs4e!
+    protocol: origin
+    obfs: plain
+    protocol-param: ''
+    obfs-param: ''
+    udp: true
+    speedtest: 335008
+  - name: NodeTest 36 | 325.08 KB
+    server: opt24.boom.party
+    port: 34000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 332881
+  - name: NodeTest 37 | 323.03 KB
+    server: nj8.boom.party
+    port: 18000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 330781
+  - name: NodeTest 38 | 314.11 KB
+    server: opt17.boom.party
+    port: 27000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 321649
+  - name: NodeTest 39 | 312.19 KB
+    server: nk4.boom.party
+    port: 14000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 319687
+  - name: NodeTest 40 | 312.19 KB
+    server: opt14.boom.party
+    port: 24000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 319687
+  - name: NodeTest 41 | 311.25 KB
+    server: ntemp04.boom.party
+    port: 13000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 318716
+  - name: NodeTest 42 | 307.51 KB
+    server: nk1.boom.party
+    port: 11000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 314887
+  - name: NodeTest 43 | 307.51 KB
+    server: n62.boom.party
+    port: 20000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 314887
+  - name: NodeTest 44 | 305.67 KB
+    server: opt2.boom.party
+    port: 12000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 313007
+  - name: NodeTest 45 | 305.67 KB
+    server: opt6.boom.party
+    port: 16000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 313007
+  - name: NodeTest 46 | 304.76 KB
+    server: opt13.boom.party
+    port: 23000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 312076
+  - name: NodeTest 47 | 297.67 KB
+    server: n77.boom.party
+    port: 23000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 304818
+  - name: NodeTest 48 | 291.74 KB
+    server: nj5.boom.party
+    port: 15000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 298739
+  - name: NodeTest 49 | 290.08 KB
+    server: opt22.boom.party
+    port: 32000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 297047
+  - name: NodeTest 50 | 290.08 KB
+    server: opt9.boom.party
+    port: 19000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 297047
+  - name: NodeTest 51 | 290.08 KB
+    server: ntemp10.boom.party
+    port: 20000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 297047
+  - name: NodeTest 52 | 290.08 KB
+    server: n37.boom.party
+    port: 33300
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 297047
+  - name: NodeTest 53 | 289.26 KB
+    server: opt3.boom.party
+    port: 13000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 296207
+  - name: NodeTest 54 | 286.83 KB
+    server: nf6.boom.party
+    port: 16000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 293718
+  - name: NodeTest 55 | 283.66 KB
+    server: opt7.boom.party
+    port: 17000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 290464
+  - name: NodeTest 56 | 281.32 KB
+    server: nf7.boom.party
+    port: 17000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 288070
+  - name: NodeTest 57 | 281.32 KB
+    server: n63.boom.party
+    port: 14000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 288070
+  - name: NodeTest 58 | 280.55 KB
+    server: nn9.boom.party
+    port: 48000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 287281
+  - name: NodeTest 59 | 279.78 KB
+    server: nna.boom.party
+    port: 49000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 286496
+  - name: NodeTest 60 | 278.26 KB
+    server: nf1.boom.party
+    port: 11000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 284939
+  - name: NodeTest 61 | 275.27 KB
+    server: nf3.boom.party
+    port: 13000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 281875
+  - name: NodeTest 62 | 275.27 KB
+    server: n67.boom.party
+    port: 25000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 281875
+  - name: NodeTest 63 | 267.36 KB
+    server: opt5.boom.party
+    port: 15000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 273779
+  - name: RO NodeTest 64 | 266.67 KB
+    server: 79.110.54.133
+    port: 50168
     type: ss
     cipher: aes-256-gcm
-    password: kD9vkjnE6dsUzwQfvKkPkQAd
+    password: WCuz7yrfZSCQQXSNrtGPz2HT
     udp: true
-    speedtest: 246723
-  - name: US NodeTest 100 | 237.04 KB
+    speedtest: 273066
+  - name: NodeTest 65 | 262.56 KB
+    server: n54.boom.party
+    port: 14000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 268865
+  - name: NodeTest 66 | 261.22 KB
+    server: opt8.boom.party
+    port: 18000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 267493
+  - name: NodeTest 67 | 256.64 KB
+    server: nl6.boom.party
+    port: 27000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 262801
+  - name: MY NodeTest 68 | 256.64 KB
+    server: 118.107.244.110
+    port: 7306
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 262801
+  - name: NodeTest 69 | 255.36 KB
+    server: ntemp16.boom.party
+    port: 21000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 261490
+  - name: NodeTest 70 | 250.37 KB
+    server: ntemp18.boom.party
+    port: 23000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 256375
+  - name: NodeTest 71 | 247.34 KB
+    server: n09.boom.party
+    port: 12000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 253279
+  - name: NodeTest 72 | 246.15 KB
+    server: nf4.boom.party
+    port: 14000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 252061
+  - name: NodeTest 73 | 245.56 KB
+    server: opt1.boom.party
+    port: 11000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 251457
+  - name: NodeTest 74 | 245.56 KB
+    server: nla.boom.party
+    port: 31000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 251457
+  - name: NodeTest 75 | 244.98 KB
+    server: nl5.boom.party
+    port: 26000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 250855
+  - name: NodeTest 76 | 243.23 KB
+    server: opt10.boom.party
+    port: 20000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 249067
+  - name: US NodeTest 77 | 242.65 KB
     server: 66.115.177.143
-    port: 34815
+    port: 46642
     type: ss
     cipher: aes-256-gcm
-    password: LkFAzkzXkSCRYa2CsRdL8cGb
+    password: gYL83DQWXuDbxmZAVVtUTXaK
     udp: true
-    speedtest: 242725
+    speedtest: 248477
+  - name: NodeTest 78 | 242.65 KB
+    server: n22.boom.party
+    port: 32200
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 248477
+  - name: NodeTest 79 | 239.25 KB
+    server: nm9.boom.party
+    port: 19000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 244994
+  - name: NodeTest 80 | 237.59 KB
+    server: nj9.boom.party
+    port: 19000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 243289
+  - name: NodeTest 81 | 237.59 KB
+    server: nn12.boom.party
+    port: 51000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 243289
+  - name: MY NodeTest 82 | 236.49 KB
+    server: 118.107.244.112
+    port: 7306
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 242165
+  - name: NodeTest 83 | 235.4 KB
+    server: nf5.boom.party
+    port: 15000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 241051
+  - name: US NodeTest 84 | 234.32 KB
+    server: 66.115.177.156
+    port: 50024
+    type: ss
+    cipher: aes-256-gcm
+    password: b2jDPHUQxCNa2KmGHZjy7C4B
+    udp: true
+    speedtest: 239948
+  - name: US NodeTest 85 | 233.79 KB
+    server: 65.49.193.120
+    port: 502
+    type: ss
+    cipher: aes-256-cfb
+    password: bwhskrskr01
+    udp: true
+    speedtest: 239400
+  - name: NodeTest 86 | 233.79 KB
+    server: nf2.boom.party
+    port: 12000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 239400
+  - name: IT NodeTest 87 | 231.15 KB
+    server: 82.102.26.93
+    port: 31764
+    type: ss
+    cipher: aes-256-gcm
+    password: YgusH2MWA8PWc3p2VDsR7AVv
+    udp: true
+    speedtest: 236698
+  - name: NodeTest 88 | 228.57 KB
+    server: nf10.boom.party
+    port: 20000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 234057
+  - name: RW NodeTest 89 | 227.05 KB
+    server: 134.195.196.133
+    port: 8091
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 232500
+  - name: NodeTest 90 | 226.05 KB
+    server: ssr6.ssrsub.com
+    port: 8333
+    type: ssr
+    cipher: rc4-md5
+    password: passfw2xs4e!
+    protocol: origin
+    obfs: plain
+    protocol-param: ''
+    obfs-param: ''
+    udp: true
+    speedtest: 231473
+  - name: US NodeTest 91 | 223.58 KB
+    server: 167.88.63.28
+    port: 7307
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 228946
+  - name: MY NodeTest 92 | 222.13 KB
+    server: 118.107.244.114
+    port: 2376
+    type: ss
+    cipher: aes-256-gcm
+    password: faBAoD54k87UJG7
+    udp: true
+    speedtest: 227456
+  - name: NodeTest 93 | 220.21 KB
+    server: nmd.boom.party
+    port: 23000
+    type: ssr
+    cipher: aes-256-cfb
+    password: Uk92CS
+    protocol: auth_aes128_sha1
+    obfs: http_simple
+    protocol-param: 44119:QwctEr
+    obfs-param: download.windowsupdate.com
+    udp: true
+    speedtest: 225500
+  - name: RW NodeTest 94 | 217.41 KB
+    server: 134.195.196.110
+    port: 7307
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 222627
+  - name: RW NodeTest 95 | 215.58 KB
+    server: 134.195.196.147
+    port: 8091
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 220752
+  - name: CA NodeTest 96 | 213.33 KB
+    server: 198.57.27.218
+    port: 8090
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 218453
+  - name: RW NodeTest 97 | 213.33 KB
+    server: 134.195.196.154
+    port: 8091
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 218453
+  - name: US NodeTest 98 | 212.89 KB
+    server: 167.88.63.82
+    port: 8091
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 217999
+  - name: RW NodeTest 99 | 212.01 KB
+    server: 134.195.196.71
+    port: 7307
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 217096
+  - name: US NodeTest 100 | 211.57 KB
+    server: 38.107.226.149
+    port: 2376
+    type: ss
+    cipher: aes-256-gcm
+    password: faBAoD54k87UJG7
+    udp: true
+    speedtest: 216647
