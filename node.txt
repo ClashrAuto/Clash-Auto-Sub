@@ -1,345 +1,361 @@
 proxies:
-  - name: KR NodeTest 1 | 333.55 KB
-    server: 61.14.210.237
-    port: 35294
+  - name: NodeTest 1 | 467.58 KB
+    server: p5.22332e.com
+    port: 8333
+    type: ssr
+    cipher: rc4-md5
+    password: passfw2xs4e!
+    protocol: origin
+    obfs: plain
+    protocol-param: ''
+    obfs-param: ''
+    udp: true
+    speedtest: 478801
+  - name: US NodeTest 2 | 351.89 KB
+    server: 49.51.188.31
+    port: 32095
+    type: ss
+    cipher: aes-256-cfb
+    password: lanluojing320
+    udp: true
+    speedtest: 360335
+  - name: CA NodeTest 3 | 244.39 KB
+    server: 198.57.27.233
+    port: 8091
     type: ss
     cipher: aes-256-gcm
-    password: J9Y2ncrdPEC38gwydNFFGBna
+    password: PCnnH6SQSnfoS27
     udp: true
-    speedtest: 341555
-  - name: RO NodeTest 2 | 296.81 KB
-    server: 79.110.54.133
-    port: 49126
+    speedtest: 250256
+  - name: MY NodeTest 4 | 243.23 KB
+    server: 118.107.244.110
+    port: 7307
     type: ss
     cipher: aes-256-gcm
-    password: wrCaGtrUbzeRqQLdc8Kmk3Nd
+    password: FoOiGlkAA9yPEGP
     udp: true
-    speedtest: 303935
-  - name: RW NodeTest 3 | 249.15 KB
-    server: 134.195.196.81
-    port: 2375
+    speedtest: 249067
+  - name: RW NodeTest 5 | 240.94 KB
+    server: 134.195.196.133
+    port: 8091
     type: ss
     cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
+    password: PCnnH6SQSnfoS27
     udp: true
-    speedtest: 255127
-  - name: KR NodeTest 4 | 247.94 KB
-    server: 61.14.210.242
-    port: 34815
+    speedtest: 246723
+  - name: US NodeTest 6 | 239.25 KB
+    server: 167.88.63.82
+    port: 8091
     type: ss
     cipher: aes-256-gcm
-    password: LkFAzkzXkSCRYa2CsRdL8cGb
+    password: PCnnH6SQSnfoS27
     udp: true
-    speedtest: 253892
-  - name: RW NodeTest 5 | 242.65 KB
+    speedtest: 244994
+  - name: RW NodeTest 7 | 237.59 KB
+    server: 134.195.196.165
+    port: 8091
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 243289
+  - name: RW NodeTest 8 | 237.04 KB
     server: 134.195.196.97
     port: 8090
     type: ss
     cipher: aes-256-gcm
     password: PCnnH6SQSnfoS27
     udp: true
-    speedtest: 248477
-  - name: RW NodeTest 6 | 240.38 KB
-    server: 134.195.196.165
+    speedtest: 242725
+  - name: RW NodeTest 9 | 236.49 KB
+    server: 134.195.196.81
     port: 7307
     type: ss
     cipher: aes-256-gcm
     password: FoOiGlkAA9yPEGP
     udp: true
-    speedtest: 246144
-  - name: RW NodeTest 7 | 238.14 KB
-    server: 134.195.196.133
-    port: 2375
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 243854
-  - name: CA NodeTest 8 | 235.94 KB
-    server: 198.57.27.233
-    port: 7307
-    type: ss
-    cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
-    udp: true
-    speedtest: 241607
-  - name: RW NodeTest 9 | 232.73 KB
-    server: 134.195.196.147
-    port: 7306
-    type: ss
-    cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
-    udp: true
-    speedtest: 238312
-  - name: CA NodeTest 10 | 230.63 KB
-    server: 198.57.27.241
-    port: 2376
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 236165
-  - name: RW NodeTest 11 | 230.63 KB
+    speedtest: 242165
+  - name: RW NodeTest 10 | 234.32 KB
     server: 134.195.198.178
     port: 7307
     type: ss
     cipher: aes-256-gcm
     password: FoOiGlkAA9yPEGP
     udp: true
-    speedtest: 236165
-  - name: US NodeTest 12 | 230.11 KB
+    speedtest: 239948
+  - name: US NodeTest 11 | 232.73 KB
     server: 38.107.226.149
     port: 2375
     type: ss
     cipher: aes-256-gcm
     password: faBAoD54k87UJG7
     udp: true
-    speedtest: 235635
-  - name: CA NodeTest 13 | 228.06 KB
-    server: 198.57.27.243
-    port: 7306
+    speedtest: 238312
+  - name: US NodeTest 12 | 232.73 KB
+    server: 167.88.63.99
+    port: 8091
     type: ss
     cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
+    password: PCnnH6SQSnfoS27
     udp: true
-    speedtest: 233535
-  - name: US NodeTest 14 | 225.05 KB
-    server: 38.107.226.241
-    port: 2375
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 230456
-  - name: US NodeTest 15 | 222.61 KB
-    server: 167.88.63.119
-    port: 7307
-    type: ss
-    cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
-    udp: true
-    speedtest: 227951
-  - name: RW NodeTest 16 | 222.61 KB
-    server: 134.195.196.110
-    port: 7307
-    type: ss
-    cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
-    udp: true
-    speedtest: 227951
-  - name: CA NodeTest 17 | 222.13 KB
-    server: 198.57.27.218
-    port: 7307
-    type: ss
-    cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
-    udp: true
-    speedtest: 227456
-  - name: US NodeTest 18 | 222.13 KB
-    server: 167.88.63.28
-    port: 2376
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 227456
-  - name: NO NodeTest 19 | 221.64 KB
-    server: 46.29.218.6
-    port: 2376
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 226964
-  - name: US NodeTest 20 | 221.64 KB
-    server: 167.88.63.82
-    port: 7307
-    type: ss
-    cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
-    udp: true
-    speedtest: 226964
-  - name: US NodeTest 21 | 221.17 KB
-    server: 38.107.226.159
-    port: 2376
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 226474
-  - name: US NodeTest 22 | 220.21 KB
-    server: 66.115.177.143
-    port: 45329
-    type: ss
-    cipher: aes-256-gcm
-    password: CXSjgD7u7Ar7GxkZ4CgTMUsj
-    udp: true
-    speedtest: 225500
-  - name: US NodeTest 23 | 219.74 KB
-    server: 38.107.226.238
-    port: 2375
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 225016
-  - name: RW NodeTest 24 | 216.95 KB
+    speedtest: 238312
+  - name: RW NodeTest 13 | 230.63 KB
     server: 134.195.198.95
-    port: 7306
+    port: 2376
     type: ss
     cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
+    password: faBAoD54k87UJG7
     udp: true
-    speedtest: 222155
-  - name: NL NodeTest 25 | 215.58 KB
-    server: 62.197.144.6
-    port: 50168
-    type: ss
-    cipher: aes-256-gcm
-    password: WCuz7yrfZSCQQXSNrtGPz2HT
-    udp: true
-    speedtest: 220752
-  - name: NodeTest 26 | 212.01 KB
-    server: se.free-v2ray.tk
-    port: 31572
-    type: ss
-    cipher: aes-256-gcm
-    password: n8w4StnbVD9dmXYn4Ajt87EA
-    udp: true
-    speedtest: 217096
-  - name: RO NodeTest 27 | 211.13 KB
-    server: 91.90.123.155
-    port: 31572
-    type: ss
-    cipher: aes-256-gcm
-    password: n8w4StnbVD9dmXYn4Ajt87EA
-    udp: true
-    speedtest: 216201
-  - name: US NodeTest 28 | 211.13 KB
+    speedtest: 236165
+  - name: US NodeTest 14 | 230.63 KB
     server: 167.88.63.61
     port: 7306
     type: ss
     cipher: aes-256-gcm
     password: FoOiGlkAA9yPEGP
     udp: true
-    speedtest: 216201
-  - name: RW NodeTest 29 | 211.13 KB
-    server: 134.195.198.252
+    speedtest: 236165
+  - name: CA NodeTest 15 | 230.11 KB
+    server: 198.57.27.241
+    port: 8091
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 235635
+  - name: US NodeTest 16 | 228.06 KB
+    server: 167.88.63.60
+    port: 7306
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 233535
+  - name: US NodeTest 17 | 227.05 KB
+    server: 167.88.63.107
     port: 8090
     type: ss
     cipher: aes-256-gcm
     password: PCnnH6SQSnfoS27
     udp: true
-    speedtest: 216201
-  - name: RW NodeTest 30 | 210.7 KB
+    speedtest: 232500
+  - name: US NodeTest 18 | 225.55 KB
+    server: 167.88.63.11
+    port: 8091
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 230963
+  - name: US NodeTest 19 | 223.58 KB
+    server: 38.107.226.238
+    port: 2376
+    type: ss
+    cipher: aes-256-gcm
+    password: faBAoD54k87UJG7
+    udp: true
+    speedtest: 228946
+  - name: CA NodeTest 20 | 223.09 KB
+    server: 198.57.27.218
+    port: 2376
+    type: ss
+    cipher: aes-256-gcm
+    password: faBAoD54k87UJG7
+    udp: true
+    speedtest: 228447
+  - name: US NodeTest 21 | 221.64 KB
+    server: 167.88.63.119
+    port: 2376
+    type: ss
+    cipher: aes-256-gcm
+    password: faBAoD54k87UJG7
+    udp: true
+    speedtest: 226964
+  - name: RO NodeTest 22 | 220.69 KB
+    server: 91.90.123.155
+    port: 31572
+    type: ss
+    cipher: aes-256-gcm
+    password: n8w4StnbVD9dmXYn4Ajt87EA
+    udp: true
+    speedtest: 225986
+  - name: CA NodeTest 23 | 220.21 KB
+    server: 198.57.27.225
+    port: 7307
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 225500
+  - name: US NodeTest 24 | 219.74 KB
+    server: 38.107.226.241
+    port: 7307
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 225016
+  - name: US NodeTest 25 | 219.74 KB
+    server: 167.88.63.74
+    port: 7306
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 225016
+  - name: RW NodeTest 26 | 218.8 KB
     server: 134.195.196.163
+    port: 8090
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 224054
+  - name: US NodeTest 27 | 218.8 KB
+    server: 167.88.63.28
+    port: 7307
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 224054
+  - name: RW NodeTest 28 | 217.87 KB
+    server: 134.195.198.250
+    port: 7306
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 223101
+  - name: CA NodeTest 29 | 217.41 KB
+    server: 198.57.27.243
+    port: 8091
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 222627
+  - name: US NodeTest 30 | 217.41 KB
+    server: 167.88.63.89
+    port: 8090
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 222627
+  - name: RW NodeTest 31 | 216.95 KB
+    server: 134.195.196.147
+    port: 8090
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 222155
+  - name: NL NodeTest 32 | 213.33 KB
+    server: 62.197.144.6
+    port: 50168
+    type: ss
+    cipher: aes-256-gcm
+    password: WCuz7yrfZSCQQXSNrtGPz2HT
+    udp: true
+    speedtest: 218453
+  - name: NO NodeTest 33 | 210.7 KB
+    server: 46.29.218.6
     port: 7306
     type: ss
     cipher: aes-256-gcm
     password: FoOiGlkAA9yPEGP
     udp: true
     speedtest: 215756
-  - name: RW NodeTest 31 | 206.45 KB
+  - name: RW NodeTest 34 | 209.84 KB
     server: 134.195.196.71
     port: 2375
     type: ss
     cipher: aes-256-gcm
     password: faBAoD54k87UJG7
     udp: true
-    speedtest: 211406
-  - name: NodeTest 32 | 205.62 KB
-    server: ss3.ssrsub.com
-    port: 40443
-    type: ss
-    cipher: aes-128-gcm
-    password: suo.yt/ssrsub
-    plugin: obfs
-    plugin-opts:
-      mode: tls
-      host: n46hm52773.wns.windows.com
-    udp: true
-    speedtest: 210557
-  - name: US NodeTest 33 | 205.62 KB
-    server: 167.88.63.107
-    port: 2375
+    speedtest: 214872
+  - name: KR NodeTest 35 | 208.55 KB
+    server: 61.14.210.237
+    port: 38033
     type: ss
     cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
+    password: xpQwyV4W5FdA6NMANJJx73US
     udp: true
-    speedtest: 210557
-  - name: PL NodeTest 34 | 204.39 KB
+    speedtest: 213559
+  - name: US NodeTest 36 | 208.55 KB
+    server: 167.88.63.114
+    port: 7307
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 213559
+  - name: US NodeTest 37 | 208.13 KB
+    server: 38.107.226.146
+    port: 8090
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 213125
+  - name: RW NodeTest 38 | 207.29 KB
+    server: 134.195.198.252
+    port: 7306
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 212262
+  - name: PL NodeTest 39 | 206.45 KB
     server: 5.133.14.196
     port: 38742
     type: ss
     cipher: aes-256-gcm
     password: DKXfWwc4ebscpXTKpbt85rSH
     udp: true
-    speedtest: 209296
-  - name: US NodeTest 35 | 203.98 KB
-    server: 172.99.190.246
-    port: 7307
-    type: ss
-    cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
-    udp: true
-    speedtest: 208879
-  - name: US NodeTest 36 | 203.17 KB
-    server: 167.88.63.89
-    port: 2376
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 208050
-  - name: RW NodeTest 37 | 203.17 KB
-    server: 134.195.196.154
-    port: 8091
+    speedtest: 211406
+  - name: CA NodeTest 40 | 206.04 KB
+    server: 198.57.27.238
+    port: 8090
     type: ss
     cipher: aes-256-gcm
     password: PCnnH6SQSnfoS27
     udp: true
-    speedtest: 208050
-  - name: MY NodeTest 38 | 202.37 KB
-    server: 118.107.244.110
-    port: 7306
-    type: ss
-    cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
-    udp: true
-    speedtest: 207228
-  - name: US NodeTest 39 | 201.97 KB
+    speedtest: 210981
+  - name: US NodeTest 41 | 203.17 KB
     server: 172.99.190.186
     port: 2376
     type: ss
     cipher: aes-256-gcm
     password: faBAoD54k87UJG7
     udp: true
-    speedtest: 206819
-  - name: US NodeTest 40 | 201.97 KB
-    server: 172.99.190.153
-    port: 2375
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 206819
-  - name: US NodeTest 41 | 201.18 KB
+    speedtest: 208050
+  - name: US NodeTest 42 | 202.77 KB
     server: 172.99.190.205
     port: 8091
     type: ss
     cipher: aes-256-gcm
     password: PCnnH6SQSnfoS27
     udp: true
-    speedtest: 206007
-  - name: US NodeTest 42 | 200.78 KB
-    server: 172.99.190.7
-    port: 7307
+    speedtest: 207638
+  - name: US NodeTest 43 | 201.18 KB
+    server: 66.115.177.156
+    port: 37588
     type: ss
     cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
+    password: kD9vkjnE6dsUzwQfvKkPkQAd
+    udp: true
+    speedtest: 206007
+  - name: US NodeTest 44 | 200.78 KB
+    server: 172.99.190.232
+    port: 2376
+    type: ss
+    cipher: aes-256-gcm
+    password: faBAoD54k87UJG7
     udp: true
     speedtest: 205603
-  - name: CA NodeTest 43 | 200.39 KB
+  - name: CA NodeTest 45 | 200.39 KB
     server: 45.62.231.177
     port: 42471
     type: ssr
@@ -351,224 +367,24 @@ proxies:
     obfs-param: ''
     udp: true
     speedtest: 205200
-  - name: NodeTest 44 | 199.61 KB
-    server: ssr2.ssrsub.com
-    port: 38149
-    type: ss
-    cipher: aes-256-cfb
-    password: suo.yt/ssrsub
-    udp: true
-    speedtest: 204400
-  - name: NodeTest 45 | 198.83 KB
-    server: ssr1.ssrsub.com
-    port: 42471
-    type: ssr
-    cipher: aes-256-cfb
-    password: https://dlj.tf/ssrsub
-    protocol: origin
-    obfs: plain
-    protocol-param: ''
-    obfs-param: ''
-    udp: true
-    speedtest: 203606
-  - name: US NodeTest 46 | 197.3 KB
-    server: 167.88.63.74
-    port: 2375
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 202037
-  - name: US NodeTest 47 | 196.54 KB
-    server: 172.99.190.188
-    port: 2376
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 201262
-  - name: US NodeTest 48 | 195.05 KB
-    server: 172.99.190.232
-    port: 2376
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 199728
-  - name: US NodeTest 49 | 193.94 KB
+  - name: US NodeTest 46 | 199.22 KB
     server: 172.99.190.109
-    port: 7307
-    type: ss
-    cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
-    udp: true
-    speedtest: 198593
-  - name: US NodeTest 50 | 192.12 KB
-    server: 172.99.190.130
-    port: 8090
-    type: ss
-    cipher: aes-256-gcm
-    password: PCnnH6SQSnfoS27
-    udp: true
-    speedtest: 196730
-  - name: GB NodeTest 51 | 189.98 KB
-    server: 146.70.27.12
-    port: 40093
-    type: ss
-    cipher: aes-256-gcm
-    password: x23Z4LGkGDkThZ9Kaz4DURQp
-    udp: true
-    speedtest: 194541
-  - name: CA NodeTest 52 | 189.28 KB
-    server: 198.57.27.247
-    port: 7307
-    type: ss
-    cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
-    udp: true
-    speedtest: 193821
-  - name: US NodeTest 53 | 188.23 KB
-    server: 167.88.63.60
-    port: 2376
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 192752
-  - name: US NodeTest 54 | 188.23 KB
-    server: 172.99.190.35
-    port: 2376
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 192752
-  - name: NodeTest 55 | 187.89 KB
-    server: ss2.ssrsub.com
-    port: 9443
-    type: ss
-    cipher: aes-128-gcm
-    password: https://dlj.tf/ssrsub
-    plugin: obfs
-    plugin-opts:
-      mode: tls
-      host: n46hm52773.wns.windows.com
-    udp: true
-    speedtest: 192399
-  - name: US NodeTest 56 | 187.54 KB
-    server: 172.99.190.57
-    port: 7306
-    type: ss
-    cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
-    udp: true
-    speedtest: 192046
-  - name: US NodeTest 57 | 186.86 KB
-    server: 167.88.63.108
     port: 8091
     type: ss
     cipher: aes-256-gcm
     password: PCnnH6SQSnfoS27
     udp: true
-    speedtest: 191345
-  - name: PL NodeTest 58 | 186.86 KB
-    server: 51.77.53.200
-    port: 2376
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 191345
-  - name: CA NodeTest 59 | 186.86 KB
-    server: 45.62.228.191
-    port: 9443
-    type: ss
-    cipher: aes-128-gcm
-    password: https://dlj.tf/ssrsub
-    udp: true
-    speedtest: 191345
-  - name: RO NodeTest 60 | 186.86 KB
-    server: 193.29.107.125
-    port: 41676
-    type: ss
-    cipher: aes-256-gcm
-    password: z6pH3RyttkRWhJ5tpRyt6dYk
-    udp: true
-    speedtest: 191345
-  - name: US NodeTest 61 | 186.52 KB
-    server: 172.107.233.230
-    port: 2376
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 190997
-  - name: US NodeTest 62 | 186.18 KB
-    server: 172.99.190.158
+    speedtest: 204003
+  - name: US NodeTest 47 | 199.22 KB
+    server: 172.99.190.246
     port: 8091
     type: ss
     cipher: aes-256-gcm
     password: PCnnH6SQSnfoS27
     udp: true
-    speedtest: 190650
-  - name: US NodeTest 63 | 185.51 KB
-    server: 172.99.190.230
-    port: 2376
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 189959
-  - name: US NodeTest 64 | 184.84 KB
-    server: 172.99.190.149
-    port: 7306
-    type: ss
-    cipher: aes-256-gcm
-    password: FoOiGlkAA9yPEGP
-    udp: true
-    speedtest: 189273
-  - name: CA NodeTest 65 | 184.5 KB
-    server: 72.140.224.197
-    port: 802
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: G!yBwPWH3Vao
-    udp: true
-    speedtest: 188932
-  - name: US NodeTest 66 | 184.17 KB
-    server: 172.99.190.139
-    port: 8090
-    type: ss
-    cipher: aes-256-gcm
-    password: PCnnH6SQSnfoS27
-    udp: true
-    speedtest: 188592
-  - name: US NodeTest 67 | 183.84 KB
-    server: 167.88.63.99
-    port: 8091
-    type: ss
-    cipher: aes-256-gcm
-    password: PCnnH6SQSnfoS27
-    udp: true
-    speedtest: 188254
-  - name: US NodeTest 68 | 182.53 KB
-    server: 172.99.190.90
-    port: 2375
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 186911
-  - name: US NodeTest 69 | 181.56 KB
-    server: 167.88.63.50
-    port: 2375
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 185917
-  - name: NodeTest 70 | 180.28 KB
-    server: ss1.ssrsub.com
+    speedtest: 204003
+  - name: NodeTest 48 | 196.92 KB
+    server: ss3.ssrsub.com
     port: 40443
     type: ss
     cipher: aes-128-gcm
@@ -578,24 +394,216 @@ proxies:
       mode: tls
       host: n46hm52773.wns.windows.com
     udp: true
-    speedtest: 184608
-  - name: PL NodeTest 71 | 179.65 KB
+    speedtest: 201649
+  - name: RW NodeTest 49 | 196.92 KB
+    server: 134.195.198.195
+    port: 7306
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 201649
+  - name: US NodeTest 50 | 196.17 KB
+    server: 172.99.190.149
+    port: 8091
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 200876
+  - name: US NodeTest 51 | 195.42 KB
+    server: 172.99.190.188
+    port: 2375
+    type: ss
+    cipher: aes-256-gcm
+    password: faBAoD54k87UJG7
+    udp: true
+    speedtest: 200109
+  - name: US NodeTest 52 | 195.05 KB
+    server: 172.99.190.158
+    port: 8091
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 199728
+  - name: US NodeTest 53 | 193.57 KB
+    server: 167.88.63.108
+    port: 8091
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 198218
+  - name: RO NodeTest 54 | 193.57 KB
+    server: 79.110.54.133
+    port: 31764
+    type: ss
+    cipher: aes-256-gcm
+    password: YgusH2MWA8PWc3p2VDsR7AVv
+    udp: true
+    speedtest: 198218
+  - name: DE NodeTest 55 | 192.12 KB
+    server: 193.108.118.2
+    port: 7306
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 196730
+  - name: IR NodeTest 56 | 191.76 KB
+    server: 185.108.106.178
+    port: 34815
+    type: ss
+    cipher: aes-256-gcm
+    password: LkFAzkzXkSCRYa2CsRdL8cGb
+    udp: true
+    speedtest: 196362
+  - name: DE NodeTest 57 | 190.33 KB
+    server: 193.108.118.34
+    port: 8091
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 194902
+  - name: US NodeTest 58 | 188.23 KB
+    server: 172.99.190.230
+    port: 8090
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 192752
+  - name: PL NodeTest 59 | 187.89 KB
+    server: 51.77.53.200
+    port: 7307
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 192399
+  - name: GB NodeTest 60 | 187.54 KB
+    server: 185.160.26.170
+    port: 809
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: G!yBwPWH3Vao
+    udp: true
+    speedtest: 192046
+  - name: RW NodeTest 61 | 186.86 KB
+    server: 134.195.196.154
+    port: 2375
+    type: ss
+    cipher: aes-256-gcm
+    password: faBAoD54k87UJG7
+    udp: true
+    speedtest: 191345
+  - name: US NodeTest 62 | 185.84 KB
+    server: 172.99.190.7
+    port: 7307
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 190304
+  - name: PL NodeTest 63 | 185.51 KB
     server: 51.77.52.74
     port: 2375
     type: ss
     cipher: aes-256-gcm
     password: faBAoD54k87UJG7
     udp: true
-    speedtest: 183960
-  - name: US NodeTest 72 | 178.4 KB
-    server: 167.88.63.114
-    port: 8090
+    speedtest: 189959
+  - name: US NodeTest 64 | 183.84 KB
+    server: 172.99.190.90
+    port: 2375
     type: ss
     cipher: aes-256-gcm
-    password: PCnnH6SQSnfoS27
+    password: faBAoD54k87UJG7
     udp: true
-    speedtest: 182678
-  - name: DE NodeTest 73 | 178.09 KB
+    speedtest: 188254
+  - name: US NodeTest 65 | 183.84 KB
+    server: 172.107.233.230
+    port: 7307
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 188254
+  - name: US NodeTest 66 | 180.92 KB
+    server: 172.99.190.35
+    port: 2375
+    type: ss
+    cipher: aes-256-gcm
+    password: faBAoD54k87UJG7
+    udp: true
+    speedtest: 185260
+  - name: RO NodeTest 67 | 180.92 KB
+    server: 193.29.107.125
+    port: 33148
+    type: ss
+    cipher: aes-256-gcm
+    password: CMduaFXddcQbwNAAs7xFDnc8
+    udp: true
+    speedtest: 185260
+  - name: AT NodeTest 68 | 180.6 KB
+    server: 5.253.207.53
+    port: 31944
+    type: ss
+    cipher: aes-256-gcm
+    password: aYNeKDMzYQYw4KbUbJA8Wszq
+    udp: true
+    speedtest: 184934
+  - name: US NodeTest 69 | 179.96 KB
+    server: 172.99.190.57
+    port: 7306
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 184284
+  - name: US NodeTest 70 | 179.02 KB
+    server: 167.88.63.50
+    port: 2375
+    type: ss
+    cipher: aes-256-gcm
+    password: faBAoD54k87UJG7
+    udp: true
+    speedtest: 183317
+  - name: RO NodeTest 71 | 177.78 KB
+    server: 86.106.136.93
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    udp: true
+    speedtest: 182044
+  - name: NodeTest 72 | 176.55 KB
+    server: ssr2.ssrsub.com
+    port: 38149
+    type: ss
+    cipher: aes-256-cfb
+    password: suo.yt/ssrsub
+    udp: true
+    speedtest: 180788
+  - name: CA NodeTest 73 | 175.04 KB
+    server: 45.62.228.191
+    port: 9443
+    type: ss
+    cipher: aes-128-gcm
+    password: https://dlj.tf/ssrsub
+    udp: true
+    speedtest: 179243
+  - name: PL NodeTest 74 | 174.15 KB
+    server: 51.77.52.206
+    port: 2375
+    type: ss
+    cipher: aes-256-gcm
+    password: faBAoD54k87UJG7
+    udp: true
+    speedtest: 178329
+  - name: DE NodeTest 75 | 168.42 KB
     server: 51.38.112.84
     port: 44
     type: ss
@@ -606,224 +614,204 @@ proxies:
       mode: http
       host: 51.38.112.84
     udp: true
-    speedtest: 182361
-  - name: NodeTest 74 | 175.04 KB
-    server: cu.newhost.cc
-    port: 10693
-    type: ssr
-    cipher: aes-256-cfb
-    password: TuXJdt
-    protocol: auth_aes128_md5
-    obfs: tls1.2_ticket_auth
-    protocol-param: 4647:thd4vu
-    obfs-param: .microsoft.com
-    udp: true
-    speedtest: 179243
-  - name: DE NodeTest 75 | 173.56 KB
-    server: 193.108.118.2
+    speedtest: 172463
+  - name: US NodeTest 76 | 165.7 KB
+    server: 172.107.233.234
     port: 7306
     type: ss
     cipher: aes-256-gcm
     password: FoOiGlkAA9yPEGP
     udp: true
-    speedtest: 177724
-  - name: US NodeTest 76 | 172.68 KB
-    server: 38.39.192.74
-    port: 8090
-    type: ss
-    cipher: aes-256-gcm
-    password: PCnnH6SQSnfoS27
-    udp: true
-    speedtest: 176825
-  - name: DE NodeTest 77 | 172.39 KB
-    server: 145.239.1.137
-    port: 8090
-    type: ss
-    cipher: aes-256-gcm
-    password: PCnnH6SQSnfoS27
-    udp: true
-    speedtest: 176527
-  - name: FR NodeTest 78 | 171.24 KB
-    server: 62.210.38.178
-    port: 2376
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 175347
-  - name: US NodeTest 79 | 170.38 KB
-    server: 172.107.233.234
-    port: 2375
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 174471
-  - name: IR NodeTest 80 | 170.38 KB
-    server: 185.108.106.178
-    port: 47121
-    type: ss
-    cipher: aes-256-gcm
-    password: CTK8GXFQgKYQErrghPJfZ6tk
-    udp: true
-    speedtest: 174471
-  - name: US NodeTest 81 | 169.82 KB
-    server: 185.102.217.195
-    port: 50168
-    type: ss
-    cipher: aes-256-gcm
-    password: WCuz7yrfZSCQQXSNrtGPz2HT
-    udp: true
-    speedtest: 173893
-  - name: RO NodeTest 82 | 169.26 KB
-    server: 91.219.215.83
-    port: 50168
-    type: ss
-    cipher: aes-256-gcm
-    password: WCuz7yrfZSCQQXSNrtGPz2HT
-    udp: true
-    speedtest: 173318
-  - name: MK NodeTest 83 | 168.14 KB
-    server: 185.225.28.93
-    port: 31944
-    type: ss
-    cipher: aes-256-gcm
-    password: aYNeKDMzYQYw4KbUbJA8Wszq
-    udp: true
-    speedtest: 172179
-  - name: HR NodeTest 84 | 167.87 KB
-    server: 85.10.56.192
-    port: 40093
-    type: ss
-    cipher: aes-256-gcm
-    password: x23Z4LGkGDkThZ9Kaz4DURQp
-    udp: true
-    speedtest: 171897
-  - name: AT NodeTest 85 | 164.37 KB
-    server: 5.253.207.53
-    port: 31944
-    type: ss
-    cipher: aes-256-gcm
-    password: aYNeKDMzYQYw4KbUbJA8Wszq
-    udp: true
-    speedtest: 168310
-  - name: PL NodeTest 86 | 161.77 KB
-    server: 51.77.52.206
-    port: 2375
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 165651
-  - name: AU NodeTest 87 | 159.75 KB
-    server: 172.105.172.41
-    port: 8090
-    type: ss
-    cipher: aes-256-gcm
-    password: PCnnH6SQSnfoS27
-    udp: true
-    speedtest: 163584
-  - name: AT NodeTest 88 | 159.01 KB
-    server: 5.253.207.51
-    port: 33992
-    type: ss
-    cipher: aes-256-gcm
-    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
-    udp: true
-    speedtest: 162822
-  - name: FR NodeTest 89 | 156.33 KB
-    server: 51.159.30.61
-    port: 800
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: G!yBwPWH3Vao
-    udp: true
-    speedtest: 160087
-  - name: NodeTest 90 | 155.15 KB
-    server: t7.ssrsub.com
-    port: 8443
-    type: trojan
-    password: 360ecd87-72e8-4706-b252-79d0d0cfe6aa
-    skip-cert-verify: false
-    udp: true
-    speedtest: 158875
-  - name: AU NodeTest 91 | 153.75 KB
-    server: 172.105.174.182
-    port: 2375
-    type: ss
-    cipher: aes-256-gcm
-    password: faBAoD54k87UJG7
-    udp: true
-    speedtest: 157443
-  - name: US NodeTest 92 | 151.93 KB
-    server: 66.115.177.141
-    port: 50168
-    type: ss
-    cipher: aes-256-gcm
-    password: WCuz7yrfZSCQQXSNrtGPz2HT
-    udp: true
-    speedtest: 155575
-  - name: AU NodeTest 93 | 150.59 KB
+    speedtest: 169672
+  - name: AU NodeTest 77 | 164.89 KB
     server: 172.105.167.214
     port: 8090
     type: ss
     cipher: aes-256-gcm
     password: PCnnH6SQSnfoS27
     udp: true
-    speedtest: 154202
-  - name: PT NodeTest 94 | 146.7 KB
-    server: 194.39.127.191
-    port: 39772
+    speedtest: 168852
+  - name: US NodeTest 78 | 164.63 KB
+    server: 38.39.192.74
+    port: 7306
     type: ss
     cipher: aes-256-gcm
-    password: CUndSZnYsPKcu6Kj8THVMBHD
+    password: FoOiGlkAA9yPEGP
     udp: true
-    speedtest: 150225
-  - name: AU NodeTest 95 | 146.49 KB
+    speedtest: 168581
+  - name: AU NodeTest 79 | 161.01 KB
     server: 172.105.172.37
+    port: 7307
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 164870
+  - name: US NodeTest 80 | 160.5 KB
+    server: 66.115.177.141
+    port: 44820
+    type: ss
+    cipher: aes-256-gcm
+    password: jspgz9G3VmvBMCgMUWLBaZHu
+    udp: true
+    speedtest: 164353
+  - name: AU NodeTest 81 | 158.51 KB
+    server: 172.105.172.41
+    port: 8091
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 162318
+  - name: DE NodeTest 82 | 158.27 KB
+    server: 145.239.1.137
     port: 8090
     type: ss
     cipher: aes-256-gcm
     password: PCnnH6SQSnfoS27
     udp: true
-    speedtest: 150010
-  - name: BE NodeTest 96 | 145.45 KB
-    server: 89.249.73.197
-    port: 49396
+    speedtest: 162067
+  - name: FR NodeTest 83 | 157.78 KB
+    server: 62.210.38.178
+    port: 2376
     type: ss
     cipher: aes-256-gcm
-    password: BdRWC38L5JUDMTYNNxJGcUwB
+    password: faBAoD54k87UJG7
     udp: true
-    speedtest: 148945
-  - name: US NodeTest 97 | 145.25 KB
-    server: 66.115.177.156
-    port: 33998
+    speedtest: 161567
+  - name: US NodeTest 84 | 157.3 KB
+    server: 185.102.217.167
+    port: 37588
     type: ss
     cipher: aes-256-gcm
-    password: NHwQTPLCfaTMSqTnU3mjcSxe
+    password: kD9vkjnE6dsUzwQfvKkPkQAd
     udp: true
-    speedtest: 148734
-  - name: FR NodeTest 98 | 144.84 KB
-    server: 191.96.13.200
-    port: 36460
-    type: ss
-    cipher: aes-256-gcm
-    password: yUXad7DGF8L5cTShEpnp2N6z
-    udp: true
-    speedtest: 148313
-  - name: PT NodeTest 99 | 144.63 KB
+    speedtest: 161071
+  - name: PT NodeTest 85 | 156.1 KB
     server: 194.39.127.154
     port: 50168
     type: ss
     cipher: aes-256-gcm
     password: WCuz7yrfZSCQQXSNrtGPz2HT
     udp: true
-    speedtest: 148103
-  - name: NodeTest 100 | 144.43 KB
-    server: t2.ssrsub.com
+    speedtest: 159843
+  - name: AU NodeTest 86 | 153.29 KB
+    server: 172.105.174.182
+    port: 8090
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 156972
+  - name: US NodeTest 87 | 153.29 KB
+    server: 38.107.226.159
+    port: 7307
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 156972
+  - name: IL NodeTest 88 | 151.25 KB
+    server: 87.239.255.114
+    port: 38747
+    type: ss
+    cipher: aes-256-gcm
+    password: RtbLkxbJZpUQ6m8y4qAeLYZj
+    udp: true
+    speedtest: 154885
+  - name: RW NodeTest 89 | 149.27 KB
+    server: 134.195.196.130
+    port: 2375
+    type: ss
+    cipher: aes-256-gcm
+    password: faBAoD54k87UJG7
+    udp: true
+    speedtest: 152853
+  - name: US NodeTest 90 | 149.05 KB
+    server: 66.115.177.143
+    port: 31572
+    type: ss
+    cipher: aes-256-gcm
+    password: n8w4StnbVD9dmXYn4Ajt87EA
+    udp: true
+    speedtest: 152631
+  - name: AT NodeTest 91 | 148.84 KB
+    server: 5.253.207.51
+    port: 33992
+    type: ss
+    cipher: aes-256-gcm
+    password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+    udp: true
+    speedtest: 152409
+  - name: FR NodeTest 92 | 146.92 KB
+    server: 51.159.30.61
+    port: 810
+    type: ss
+    cipher: chacha20-ietf-poly1305
+    password: G!yBwPWH3Vao
+    udp: true
+    speedtest: 150441
+  - name: FR NodeTest 93 | 145.87 KB
+    server: 5.39.70.138
+    port: 8090
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 149369
+  - name: ES NodeTest 94 | 141.83 KB
+    server: 185.153.150.51
+    port: 50168
+    type: ss
+    cipher: aes-256-gcm
+    password: WCuz7yrfZSCQQXSNrtGPz2HT
+    udp: true
+    speedtest: 145232
+  - name: PT NodeTest 95 | 140.47 KB
+    server: 194.39.127.191
+    port: 39772
+    type: ss
+    cipher: aes-256-gcm
+    password: CUndSZnYsPKcu6Kj8THVMBHD
+    udp: true
+    speedtest: 143837
+  - name: IN NodeTest 96 | 138.57 KB
+    server: 172.105.63.34
+    port: 2375
+    type: ss
+    cipher: aes-256-gcm
+    password: faBAoD54k87UJG7
+    udp: true
+    speedtest: 141891
+  - name: NodeTest 97 | 138.19 KB
+    server: t5.ssrsub.com
     port: 8443
     type: trojan
     password: 360ecd87-72e8-4706-b252-79d0d0cfe6aa
     skip-cert-verify: false
     udp: true
-    speedtest: 147895
+    speedtest: 141508
+  - name: US NodeTest 98 | 134.91 KB
+    server: 192.46.211.249
+    port: 8090
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 138152
+  - name: IN NodeTest 99 | 134.74 KB
+    server: 172.105.38.55
+    port: 7306
+    type: ss
+    cipher: aes-256-gcm
+    password: FoOiGlkAA9yPEGP
+    udp: true
+    speedtest: 137970
+  - name: IN NodeTest 100 | 134.21 KB
+    server: 172.105.42.160
+    port: 8090
+    type: ss
+    cipher: aes-256-gcm
+    password: PCnnH6SQSnfoS27
+    udp: true
+    speedtest: 137428
